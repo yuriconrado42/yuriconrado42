@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Python, SQL, R and Power BI
 
 Feel free to explore my repositories. You can contact me for tips (or offer me a job lol)
-- 📫 How to reach me: ygcdantas@gmail.com
+📫 How to reach me: ygcdantas@gmail.com
 
 <!---
 yuriconrado42/yuriconrado42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
