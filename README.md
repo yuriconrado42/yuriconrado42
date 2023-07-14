@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Yuri Conrado
+- 👋 Hi, stranger! Welcome to my github profile! I’m Yuri Conrado
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Python, SQL, R and Power BI
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently studying Python, SQL, R and Power BI
+
+Feel free to explore my repositories. You can contact me for tips (or offer me a job lol)
 - 📫 How to reach me: ygcdantas@gmail.com
 
 <!---
