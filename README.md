@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuri Dantas
+- 👋 Hi, I’m Yuri Conrado
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python, SQL, R and Power BI
 - 💞️ I’m looking to collaborate on Machine Learning Projects
